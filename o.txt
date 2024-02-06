@@ -1,0 +1,72 @@
+https://www.disneyplus.com/tr-tr
+mertcelen2019@gmail.com
+130120mert.,
+
+
+https://www.netflix.com/tr/login
+kocatasmelike1994@gmail.com
+Mercan2017!?
+
+
+Özel durum UID'si: vpya5l-9d0wkd
+Oturum Bilet: ep0130pedorzgc2k2mamw5s7ze91chqd
+
+TC Dienstleistungen
+Telefon: 01717448724
+E-posta: info@tc-dienstleistung.de
+Adres: Gottlieb-Dunkel-Straße 43-44, 12099 Berlin
+
+
+@muratuzgur
+Id: 875642666
+First: Murat
+Last: Uzgur
+Lang: tr
+
+68304112174
+
+
+Done! Congratulations on your new bot. You will find it at t.me/BuchenBbot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+6506200670:AAHtM34qTYL3xY2BaG1vIHL9AY8SCxVwL4A
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+MAIN_CITIZENSHIP=Turkey
+NUMBER_OF_PEOPLE=two people
+LIVE_WITH=yes
+PARTNER_CITIZENSHIP=Turkey
+CATEGORY=apply
+REASON=family
+PURPOSE=29-32_skilled
+TELEGRAM_TOKEN=6506200670:AAHtM34qTYL3xY2BaG1vIHL9AY8SCxVwL4A
+TELEGRAM_CHATID=875642666
+
+
+Mersada Lala
+
+MAIN_CITIZENSHIP=Albania
+NUMBER_OF_PEOPLE=one person
+LIVE_WITH=yes
+PARTNER_CITIZENSHIP=Albania
+CATEGORY=extend
+REASON=family
+PURPOSE=36a
+TELEGRAM_TOKEN=6506200670:AAHtM34qTYL3xY2BaG1vIHL9AY8SCxVwL4A
+TELEGRAM_CHATID=875642666
+
+
+
+[16540:4688:0124/140413.115:ERROR:device_event_log_impl.cc(192)] [14:04:13.120] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+
++90 442 231 85 13
+nesligul 
+2010
+2011
+444 10 26
+
+29195398860
+09541235Aa
